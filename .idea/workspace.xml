@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74deedd8-39be-4b3e-9938-73536d9ed294" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Py6xWebAutomationFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/dashboardPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/loginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/katalanStudio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/test_vwo_Not_Optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/vwoLogin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="38R5ebhscaeta76HV22wbznGlTe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests in test_vwo_Not_Optimized.py.executor": "Run",
+    "Python tests.Python tests in trest_sample.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome">
+    <configuration name="Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_sample.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/tests/sample/test_sample.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_vwo_Not_Optimized.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/tests/sample/test_vwo_Not_Optimized.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.Python tests in test_vwo_Not_Optimized.py" />
+        <item itemvalue="Python tests.Python tests in test_sample.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74deedd8-39be-4b3e-9938-73536d9ed294" name="Changes" comment="" />
+      <created>1768749638365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768749638365</updated>
+    </task>
+    <servers />
+  </component>
+</project>
