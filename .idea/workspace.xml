@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74deedd8-39be-4b3e-9938-73536d9ed294" name="Changes" comment="">
+    <list default="true" id="74deedd8-39be-4b3e-9938-73536d9ed294" name="Changes" comment="17 Jan, 2026,Framework Class 1">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Py6xWebAutomationFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/dashboardPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/loginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/katalanStudio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/test_vwo_Not_Optimized.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/vwoLogin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/Utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="38R5ebhscaeta76HV22wbznGlTe" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.Python tests in test_vwo_Not_Optimized.py.executor": "Run",
-    "Python tests.Python tests in trest_sample.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_vwo_Not_Optimized.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in trest_sample.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome">
     <configuration name="Python tests for src.test.tests.sample.test_vwo_Not_Optimized.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py6xWebAutomationFramework" />
@@ -134,6 +115,19 @@
       <option name="presentableId" value="Default" />
       <updated>1768749638365</updated>
     </task>
+    <task id="LOCAL-00001" summary="17 Jan, 2026,Framework Class 1">
+      <option name="closed" value="true" />
+      <created>1768760355195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768760355195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="17 Jan, 2026,Framework Class 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 Jan, 2026,Framework Class 1" />
   </component>
 </project>
