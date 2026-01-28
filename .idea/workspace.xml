@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74deedd8-39be-4b3e-9938-73536d9ed294" name="Changes" comment="17 Jan, 2026,Framework Class 1">
-      <change afterPath="$PROJECT_DIR$/src/test/constants/Constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/freetrialPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/vwoLogin/test_vwo_free_trial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/tests/vwoLogin/test_vwo_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/common_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4cc11903-c7e8-4c6d-8996-bf83f0db852b-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/55d5b88c-292d-46bf-9169-36f5ba5b79ab-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/816ecfa9-5a14-4ea2-bb2b-4e70ad1cbf4a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e1422911-3fe8-4d98-bce8-c811344e0862-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/eae473e3-f50f-45c9-866d-e7e0e1657923-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/pageObjects/vwo/dashboardPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/dashboardPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/pageObjects/vwo/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/vwo/loginPage.py" afterDir="false" />
-    </list>
+    <list default="true" id="74deedd8-39be-4b3e-9938-73536d9ed294" name="Changes" comment="VWO Login Framework -Navita" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,11 +185,20 @@
       <option name="project" value="LOCAL" />
       <updated>1768872330263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="VWO Login Framework -Navita">
+      <option name="closed" value="true" />
+      <created>1769622346415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769622346415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="17 Jan, 2026,Framework Class 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 Jan, 2026,Framework Class 1" />
+    <MESSAGE value="VWO Login Framework -Navita" />
+    <option name="LAST_COMMIT_MESSAGE" value="VWO Login Framework -Navita" />
   </component>
 </project>
